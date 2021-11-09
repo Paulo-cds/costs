@@ -1,37 +1,33 @@
 {
   "projects": [
     {
-      "name": "projeto teste",
-      "budget": "5000",
+      "name": "Projeto atualizado",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1500,
+      "services": [
+        {
+          "name": "Novo Servico",
+          "cost": "1500",
+          "description": "Faz isso aqui",
+          "id": "816f73fd-fcab-41b5-b07c-15604086bd42"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "teste",
+      "budget": "10000000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 1
-    },
-    {
-      "name": "Projeto 3",
-      "budget": "15000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Novo Projeto",
-      "budget": "900",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
+      "id": 4
     }
   ],
   "categories": [
