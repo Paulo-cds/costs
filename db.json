@@ -7,15 +7,8 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 1500,
-      "services": [
-        {
-          "name": "Novo Servico",
-          "cost": "1500",
-          "description": "Faz isso aqui",
-          "id": "816f73fd-fcab-41b5-b07c-15604086bd42"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 2
     },
     {
@@ -25,9 +18,27 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
+      "cost": 300,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "Novo teste mobile",
+      "budget": "500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "mobile ",
+          "cost": "300",
+          "description": "Teste responsivo",
+          "id": "352aa76a-af88-446a-8e20-22219a5dd198"
+        }
+      ],
+      "id": 5
     }
   ],
   "categories": [
